@@ -90,15 +90,15 @@ Code nya :
 Outputnya :
 Contoh 1
 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/Tugas1.png?raw=true)
 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/Tugas1.1.png?raw=true)
 
 Contoh 2
 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/Tugas2.png?raw=true)
 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/Tugas2.2.png?raw=true)
 
 
 
