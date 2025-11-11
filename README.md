@@ -9,4 +9,14 @@ Code nya :
 
 Outputnya :
 
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/pw.pert9/code1.1.png?raw=true)
+
+Codenya :
+
 ![gambar](
+
+Outputnya :
+
+![gambar](
+
+
