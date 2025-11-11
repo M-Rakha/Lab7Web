@@ -58,29 +58,29 @@ Outputnya :
 # Perulangan For
 Code nya :
 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/pw.pert9/code7.png?raw=true)
 
 Outputnya :
 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/pw.pert9/code7.1.png?raw=true)
 
 # Perulangan While
 Code nya :
 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/pw.pert9/code8.png?raw=true)
 
 Outputnya :
 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/pw.pert9/code8.1.png?raw=true)
 
 # Perulangan Dowhile
 Code nya :
 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/pw.pert9/code9.png?raw=true)
 
 Outputnya :
 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/pw.pert9/code9.1.png?raw=true)
 
 
 
