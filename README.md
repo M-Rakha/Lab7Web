@@ -13,7 +13,7 @@ Outputnya :
 
 Codenya :
 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/pw.pert9/code2.png?raw=true)
 
 Outputnya :
 
