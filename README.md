@@ -22,38 +22,38 @@ Outputnya :
 # Membuat Form
 Code nya :
 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/pw.pert9/code3.png?raw=true)
 
 Outputnya :
 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/pw.pert9/code3.1.png?raw=true)
 
 # Operator
 Code nya :
 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/pw.pert9/code4.png?raw=true)
 
 Outputnya :
 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/pw.pert9/code4.1.png?raw=true)
 
 # Kondisi IF
 Code nya :
 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/pw.pert9/code5.png?raw=true)
 
 Outputnya :
 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/pw.pert9/code5.1.png?raw=true)
 
 # Kondisi Switch
 Code nya :
 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/pw.pert9/code6.png?raw=true)
 
 Outputnya :
 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/pw.pert9/code6.1.png?raw=true)
 
 # Perulangan For
 Code nya :
