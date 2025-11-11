@@ -1,1 +1,5 @@
-# Lab7Web
+# Nama : MUHAMMAD RAKHA GHANI
+# Nim : 312410421
+# Kelas : TI.24.A.3
+
+# vARIABEL PHP
