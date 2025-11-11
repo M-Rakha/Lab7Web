@@ -82,9 +82,23 @@ Outputnya :
 
 ![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/pw.pert9/code9.1.png?raw=true)
 
+# TUGAS SOAL
+Code nya :
 
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/code%20tugas.png?raw=true)
 
+Outputnya :
+Contoh 1
 
+![gambar](
+
+![gambar](
+
+Contoh 2
+
+![gambar](
+
+![gambar](
 
 
 
