@@ -3,3 +3,10 @@
 # Kelas : TI.24.A.3
 
 # vARIABEL PHP
+Code nya :
+
+![gambar](https://github.com/M-Rakha/Lab7Web/blob/main/pw.pert9/code1.png?raw=true)
+
+Outputnya :
+
+![gambar](
